@@ -44,7 +44,7 @@ Add notes about how to run this API.
 
 ## TODO <a name = "TODO"></a>
 
-- Error Exception Handling
+- <del>Error Exception Handling</del>
 - Middleware
 
 
